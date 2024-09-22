@@ -1,5 +1,5 @@
 # Config file for GitHub Pages/Jekyll
-theme: dinky
+theme: jekyll-theme-dinky
 
 title: paulfrischknecht.com
 description: "Where systems are built."
