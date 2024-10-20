@@ -1,6 +1,7 @@
 # Config file for GitHub Pages/Jekyll
-theme: jekyll-theme-dinky
+#theme: jekyll-theme-dinky
 
 #title: paulfrischknecht.com
 title: "PF"
 description: "Where systems are built."
+
