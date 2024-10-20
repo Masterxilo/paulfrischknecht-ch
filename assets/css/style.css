@@ -1,0 +1,4 @@
+/* just add some spacing between the body content and the frame of the window */
+body {
+    padding: 20px;
+}
