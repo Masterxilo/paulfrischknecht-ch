@@ -1,6 +1,6 @@
-# paulfrischknecht.com
+# paulfrischknecht.ch
 
-## Welcome to paulfrischknecht.com
+## Welcome to paulfrischknecht.ch
 You can find me on
 
 - [LinkedIn](https://www.linkedin.com/in/paul-frischknecht-80a771150/en)
